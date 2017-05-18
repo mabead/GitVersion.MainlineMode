@@ -2,3 +2,6 @@ mode: Mainline
 branches: {}
 ignore:
   sha: []
+branches:
+  feature:
+    increment: Minor
